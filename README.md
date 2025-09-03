@@ -1,2 +1,2 @@
-# Algoritmit-Teko-ly-Projekti
+# Algoritmit ja tekoäly projekti
 Aineopintojen harjoitustyö
