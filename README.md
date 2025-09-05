@@ -2,4 +2,4 @@
 Aineopintojen harjoitustyö
 
 
-repo treenin harjoitus 
+repo treenin harjoitus  repoharjoitus kolmosen lisäys readmehen\n
