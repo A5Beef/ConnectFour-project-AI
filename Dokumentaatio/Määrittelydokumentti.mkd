@@ -1,0 +1,27 @@
+Ohjelmointikieli: Python
+Muut kielet mitä osaan: sql
+
+Mitä algoritmeja ja tietorakenteita toteutat työssäni?:
+En osaa vielä sanoa, mutta jos tavoitteena on luoda AI joka pelaisi ihmistä vastaan. Niin ehkä sellainen, joka pelaisi järkevästi?
+
+Minkä ongelman ratkaisen?:
+En tiedä...
+
+Mitä syötteitä ohjelma saa ja miten niitä käytetään?:
+Mihin ihmisvastustaja on asettanut peli "kolikon". Ohjelma yrittää tehdä järkevän liikkeen seuraavaksi, voittoa tavoitellen.
+
+Tavoitteena olevat aika- ja tilavaativuudet (esim. O-analyysit):
+Järkevän nopea...?
+
+Lähteet joita aion käyttää:
+wikipedia, google, youtube, github...
+
+
+
+Harjoitustyön ydin:
+Tekoäly
+Connect4 AI vastustaja, joka yrittä pelata mahdollisimman hyvin. 
+
+
+Opinto-ohjelmani: Tietojenkäsittelytieteen kandidaatti
+Projektin dokumentaatiossa käytetty kieli: Suomi
