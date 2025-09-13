@@ -17,3 +17,5 @@ Harjoitustyön ydin: Tekoäly, Connect4 AI vastustaja, joka yrittä pelata mahdo
 Opinto-ohjelmani: Tietojenkäsittelytieteen kandidaatti
 
 Projektin dokumentaatiossa käytetty kieli: Suomi
+
+Projektissa on käytetään tekoälyalustaa.
