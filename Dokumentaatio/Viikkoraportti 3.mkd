@@ -2,3 +2,8 @@ Viikko 3  2h
 
 Koodia ei ole kirjoitettu. Työ ei ole edistynyt eteenpäin. Luin enemmän konkreettisesta AI:n luomisesta tässä projektissa ja ymmärrän nyt jotenkin paremmin. Projekti on tosi jäljessä mutta yritän edistää niin paljon miten pystyn. Voi olla, että joudun tekemään projektin toisella kerralla. Ai:n tominta ja min-max algoritmi ovat tutumpia nyt. Projekti vaikuttaa mahdolliselta, mutta aikaraja on todella tiukka. Käyttöliittymän tekeminen alusta on haaste, mutta uskon pystyvän siihen. Se miten liitän AI:n käyttöliittymään mietityttää eniten. 
 
+Suunnitelmana:
+- poistaa tekoälyalusta. (en saanut toimimaan)
+- käyttöliittymän/pelin luominen
+- Ai:n tekeminen.
+- Ai:n ja käyttöliittymän yhdistäminen.
