@@ -1,21 +1,19 @@
 Ohjelmointikieli: Python
 
-Muut kielet mitä osaan: sql
+Muut kielet mitä osaan: sql, html, R...
 
-Mitä algoritmeja ja tietorakenteita toteutat työssäni?: En osaa vielä sanoa, mutta jos tavoitteena on luoda AI joka pelaisi ihmistä vastaan. Niin ehkä sellainen, joka pelaisi järkevästi?
+Mitä algoritmeja ja tietorakenteita toteutat työssäni?: Vaatimuksissa min max ja sitten siihen alfa beeta karsinta.
 
-Minkä ongelman ratkaisen?: En tiedä...
+Minkä ongelman ratkaisen?: En osaa nyt sanoa, mutta siis min max algoritmi Connect4:n implementointi ja sen optimisointi?
 
-Mitä syötteitä ohjelma saa ja miten niitä käytetään?: Se että mihin ihmisvastustaja on tehnyt liikkeen ja ohjelma yrittää tehdä järkevän liikkeen seuraavaksi, voittoa tavoitellen.
+Mitä syötteitä ohjelma saa ja miten niitä käytetään?: Alustavasti teksti inputteja ja ehkä jos on hyvin aikaa ja taitoa niin jonkinlainen parempi interface. Esim "1" tiputtaa ensimmäiseen sarakkeeseen tai "col 1" tai paremmassa interfacessa painellen.
 
-Tavoitteena olevat aika- ja tilavaativuudet (esim. O-analyysit): Järkevän nopea...?
+Tavoitteena olevat aika- ja tilavaativuudet (esim. O-analyysit): Järkevän nopea? Wikissä alpha-beta pruningissa lukee että: worst-case performance O(b^d), best-case: O(sqrt(b^d))
 
 Lähteet joita aion käyttää: wikipedia, google, youtube, github...
 
-Harjoitustyön ydin: Tekoäly, Connect4 AI vastustaja, joka yrittä pelata mahdollisimman hyvin. 
+Harjoitustyön ydin: Min-max tekoäly ja alfa beta karsinta, Connect4 AI vastustaja, joka yrittä pelata mahdollisimman hyvin. 
 
-Opinto-ohjelmani: Tietojenkäsittelytieteen kandidaatti
+Opinto-ohjelmani:  tietojenkäsittelytieteen kandidaatti (TKT) 
 
 Projektin dokumentaatiossa käytetty kieli: Suomi
-
-Projektissa on käytetään tekoälyalustaa.
