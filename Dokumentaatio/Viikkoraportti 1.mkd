@@ -1,9 +1,0 @@
-Ensimmäisen viikon aloittelut ja projektin setuppaus, n. 3~4 tuntia.
-
-Ohjelma ei ole vielä missään vaiheessa, En edes tiedä miten tämän projektin aloittaisi.
-
-Opin asentamaan uusia ohjelmia paremmin. Opin käyttämään SSH, ja terminaalin kautta git push commit pull.
-
-En ymmärrä Poetry ja Pylint. Projektin aloitus vaikuttaa todella vaikealta. Miten lähtisi tekemään ensin pelin ja sitten vielä jonkinlaisen AI:n sille? Minusta tuntuu että vain pelin tekemisessäkin kestää todella pitkään. Miten tämä on mahdollista tehdä yhdessä periodissa? 
-
-Seuraavaksi tutkin enemmän miten projektin aloittaisin ja ehkä miten Connect4 voisi tehdä pythonilla.
