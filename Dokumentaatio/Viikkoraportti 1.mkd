@@ -1,0 +1,16 @@
+Aikaa käytetty: 2h
+
+Mitä tein tällä viikolla:
+Luin/kävin läpi kurssimateriaalit ja ohjeet. Käytin samaa pohjaa kuin viime toteutuksessa, sillä sitä en valitettavasti suorittanut. On vielä jotenkin muistissa asiat.
+
+Miten ohjelma on edistynyt:
+Ei vielä mitenkään
+
+Mitä opin tällä viikolla:
+Ehkä oman taidon rajat. Vaihoin aiheen connect4:sta gomokuun, ohjaajan sähköpostin perusteella. Tämä on oppimisen kannalta postiivinen suunta luultavasti.
+
+Mikä jäi epäselväksi tai tuottanut vaikeuksia:
+Ei vielä mitään. Ehkä se, että kannattaako työstää fuksiläppärillä tai omalla pöytäkoneella (windows). Tuottavampaa olisi omallla koneella, mutta ehkä windows rajoittaa.
+
+Mitä teen seuraavaksi:
+Gomoku / sen käyttöliittymä. Eka se peli, vaikka teksti syötteillä. Sitten konsolin pitäisi tulostaa pelilauta, ja seuraava liike sitten pelaajalle2. Tästä sitten AI + algoritmit.
