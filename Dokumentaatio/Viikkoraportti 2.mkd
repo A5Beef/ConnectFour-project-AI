@@ -1,0 +1,24 @@
+
+Mitä olen tehnyt tällä viikolla?
+Tutustuin enemmän piskvork alustaan ja perehdyin enemmän kurssimateriaaleihin. 
+
+Miten ohjelma on edistynyt?
+Ei vielä ole edistynyt.
+
+Mitä opin tällä viikolla / tänään?
+Gomocupin sivuilta löysin ohjeet AI:n toteuttamiseen. https://plastovicka.github.io/protocl2en.htm
+Tässä kerrotaan tarkkaan miten AI:n pitää olla Input/Output tapainen (En ole ihan varma miten tää tehdään pythonissa, mutta pieni googlailu johdatti printtiin ja inputtiin)
+Minun luoma AI siis pitäisi lukea viestit Gomocup managerilta ja siitä reagoida ja jatkaa.
+
+https://www.geeksforgeeks.org/python/convert-python-script-to-exe-file/
+Tässä löysin ohjeet luoda .exe tiedoston. Luulisin että näin pitäisi edetä. Eli jonkinlaista koodia ja sitten siitä tehdään executable, jonka jälkeen voidaan pyörittää gomocup maangerissa.
+
+Tästä sitten pitää osata hoitaa projektihallinta --> edellisistä kursseista ainakin poetry tulee mieleen. 
+
+
+Mikä jäi epäselväksi tai tuottanut vaikeuksia?
+Testaukseen en perehtynyt enempään mutta se huolestuttaa hieman.
+
+Mitä teen seuraavaksi?
+Plääni nyt: Testata executable juttu zip tiedostossa ja suorittaa se gomocup managerissa, esim. pelin alkutilanne AI:lla ensimmäinen siirto, laitetaan kivi keskelle pelilautaa. Siitä pitäisi saada paremmin ajatusta että miten kommunikointi
+AI:n ja managerin välillä toimii. Sitten luoda pakollisille komennoille koodi/rakenne, ja siitä sitten algoritmia. 
